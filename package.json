@@ -1,0 +1,26 @@
+{
+  "name": "andromeda",
+  "version": "1.0.0",
+  "description": "Code for my son's spaceship console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drhayes/andromeda.git"
+  },
+  "keywords": [
+    "tessel",
+    "js"
+  ],
+  "author": "David Hayes <http://drhayes.io> (drhayes@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drhayes/andromeda/issues"
+  },
+  "homepage": "https://github.com/drhayes/andromeda",
+  "dependencies": {
+    "tessel": "^0.3.19"
+  }
+}
