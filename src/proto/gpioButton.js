@@ -9,7 +9,6 @@ pin.input();
 function checkPin() {
   var val = pin.read();
   tessel.led[1].write(val);
-  setInterval(checkPin, 200);
 }
 
-checkPin();
+setInterval(checkPin, 200);

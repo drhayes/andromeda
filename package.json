@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/drhayes/andromeda",
   "dependencies": {
+    "debounce": "^1.0.0",
     "tessel": "^0.3.19"
   }
 }
