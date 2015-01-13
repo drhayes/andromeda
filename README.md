@@ -3,7 +3,7 @@ Project Andromeda
 
 I want to build a spaceship console for my son; lots of switches, knobs, and
 blinking lights. The only part of this I'm confident about is that I can code
-things, so I'll be documenting the project step-by-excrutiating-step somewhere.
+things, so I'll be documenting the project step-by-excrutiating-step.
 Probably on [drhayes.io][] somewhere.
 
 Components
